@@ -66,7 +66,7 @@
 
                     <div class="text-center mb-4">
                         <input type="submit" value="Register" class="bg-info py-3 px-4 " name="user_register">
-                        <p>Already have an account? <a href="user_login.php">Login</a></p>
+                        <p>Already have an account? <a href="https://tomhod.github.io/login.github.io/">Login</a></p>
                     </div>
 
                 </form>
